@@ -1,0 +1,11 @@
+Model Information:
+* title:	Curly's Cake from Mouthwashing
+* source:	https://sketchfab.com/3d-models/curlys-cake-from-mouthwashing-1a3cb06c50dd40a596854b54c9725aa3
+* author:	aarontaro (https://sketchfab.com/aarontaro)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Curly's Cake from Mouthwashing" (https://sketchfab.com/3d-models/curlys-cake-from-mouthwashing-1a3cb06c50dd40a596854b54c9725aa3) by aarontaro (https://sketchfab.com/aarontaro) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low poly sushi
+* source:	https://sketchfab.com/3d-models/low-poly-sushi-0c768e662e844441a08571855a06ee14
+* author:	L0up_ (https://sketchfab.com/L0up_)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low poly sushi" (https://sketchfab.com/3d-models/low-poly-sushi-0c768e662e844441a08571855a06ee14) by L0up_ (https://sketchfab.com/L0up_) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Gâteau Basque
+* source:	https://sketchfab.com/3d-models/low-poly-gateau-basque-2f0cb33c7bf54d3db5a30266f05b1bc4
+* author:	Alan Smithee (https://sketchfab.com/zikzakfr)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Gâteau Basque" (https://sketchfab.com/3d-models/low-poly-gateau-basque-2f0cb33c7bf54d3db5a30266f05b1bc4) by Alan Smithee (https://sketchfab.com/zikzakfr) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
