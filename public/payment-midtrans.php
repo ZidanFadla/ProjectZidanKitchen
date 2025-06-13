@@ -165,7 +165,7 @@ function getOrderItems($order_id, $conn) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pembayaran - ZidanKitchen</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <script src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key="SB-Mid-client-p_rr6ZhgUcuXXt7ZJaAJsSM2"></script>
+    <script src="https://app.sandbox.midtrans.com/snap/snap.js" data-client-key=""></script>
     <style>
         .payment-container { background: linear-gradient(135deg, #f5f7fa 0%, #e4e8f0 100%); }
         .payment-card { box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1); transition: all 0.3s ease; }
