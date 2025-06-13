@@ -54,7 +54,7 @@ if ($customer_result->num_rows === 0) {
 $customer = $customer_result->fetch_assoc();
 
 // Setup Midtrans
-\Midtrans\Config::$serverKey = 'SB-Mid-server-p_rr6ZhgUcuXXt7ZJaAJsSM2';
+\Midtrans\Config::$serverKey = '';
 \Midtrans\Config::$isProduction = false;
 \Midtrans\Config::$isSanitized = true;
 \Midtrans\Config::$is3ds = true;

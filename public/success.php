@@ -31,7 +31,7 @@ $stmt_order->close();
 // Re-check status with Midtrans if pending
 if ($order['status'] === 'pending' && !empty($order['midtrans_order_id'])) {
     try {
-        \Midtrans\Config::$serverKey = 'SB-Mid-server-p_rr6ZhgUcuXXt7ZJaAJsSM2';
+        \Midtrans\Config::$serverKey = '';
         \Midtrans\Config::$isProduction = false;
 
         /** @var \stdClass $status_response */
